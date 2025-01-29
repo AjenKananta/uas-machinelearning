@@ -6,6 +6,7 @@ Link Demo Youtube: https://youtu.be/wEAS2oKA1ho
 
 Hasil Training Model:
 Random Forest:
+
 ![image](https://github.com/user-attachments/assets/2d8d4409-b80b-4164-8fca-85e6452da292)
 
 
@@ -13,4 +14,5 @@ Random Forest:
 
 
 Decision Tree:
+
 ![image](https://github.com/user-attachments/assets/d44afbe8-fd0b-4d35-b4d6-e9801048d637)
