@@ -1,7 +1,11 @@
 Nama/NPM: Ajen Kananta/223400008 & Ivan Ferdianto Gani/223400010
+
 UAS MACHINE LEARNING
+
 PREDIKSI RISIKO KARTU KREDIT MENGGUNAKAN RANDOM FOREST DAN DECISION TREE
+
 Link Streamlit: https://uasmachinelearning.streamlit.app/
+
 Link Demo Youtube: https://youtu.be/wEAS2oKA1ho
 
 Hasil Training Model:
