@@ -28,7 +28,7 @@ Pilih Model:
 
 Kemudian Klik Predik
 
-Maka akan muncul tabel beresta hasil prediksi
+Maka akan muncul tabel beserta hasil prediksi
 
 ![image](https://github.com/user-attachments/assets/3ab5d7b8-c4fc-46b8-8414-e5a482e75e43)
 
